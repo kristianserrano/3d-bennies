@@ -2,7 +2,7 @@
 This module add new bennies models for **SWADE**.
 
 ## Bennies
-[![Demonstration](docs-dsn-settings.webp)](https://youtu.be/k2E7kDZLmFk)
+[![Demonstration](docs/docs-dsn-settings.webp)](https://youtu.be/k2E7kDZLmFk)
 
 ## Features
 - Pick new 3D models for you bennies.
