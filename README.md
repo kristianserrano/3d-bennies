@@ -21,7 +21,7 @@ You can install this module with this link: https://raw.githubusercontent.com/br
 - Go to Compendium and open **Alien Dice - Docs**. There is a README journal with instructions.
 
 # Acknowledges
-- Erich Matos Viegas (Sal)
+- @JDW#6422 
 
 # License
 [LICENSE](https://github.com/brunocalado/swade-more-bennies/blob/main/LICENSE)
