@@ -1,6 +1,7 @@
 # SWADE - More Bennies
 This module add new bennies models for **SWADE**.
 
+## Bennies
 <p align="center">
   <img width="1000" src="docs/docs_demo1.webp">
 </p>
