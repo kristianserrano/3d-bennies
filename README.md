@@ -2,6 +2,7 @@
 This module add new bennies models for **SWADE**.
 
 ## Bennies
+**CLICK THE IMAGE TO WATCH THE VIDEO**
 [![Demonstration](docs/docs-thumbnail.webp)](https://youtu.be/k2E7kDZLmFk)
 
 ## Features
