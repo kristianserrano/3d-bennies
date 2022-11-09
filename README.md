@@ -2,9 +2,7 @@
 This module add new bennies models for **SWADE**.
 
 ## Bennies
-<p align="center">
-  <img width="1000" src="https://github.com/brunocalado/swade-more-bennies/raw/main/docs/docs-demo.mp4">
-</p>
+[![Demonstration]()](https://youtu.be/k2E7kDZLmFk)
 
 ## Features
 - Pick new 3D models for you bennies.

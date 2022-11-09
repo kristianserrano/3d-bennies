@@ -42,6 +42,16 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
   });
 
   // ---------------------------------------------------------
+  // Blue Shard
+  dice3d.addSystem({id:"benny-shard-dark-blue", name:"Dark Blue Shard"}, false);
+  
+  dice3d.addDicePreset({
+    type:"db",
+    system:"benny-shard-dark-blue", 
+    modelFile: 'modules/' + moduleName + '/models/shard_dark_blue.glb'    
+  });
+  
+  // ---------------------------------------------------------
   // Yellow Shard
   dice3d.addSystem({id:"benny-shard-yellow", name:"Yellow Shard"}, false);
   
