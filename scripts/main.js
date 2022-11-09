@@ -101,4 +101,24 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
     modelFile: 'modules/' + moduleName + '/models/ufo.glb'    
   });  
   
+  // ---------------------------------------------------------
+  // Grenade
+  dice3d.addSystem({id:"benny-grenade", name:"Grenade"}, false);
+  
+  dice3d.addDicePreset({
+    type:"db",
+    system:"benny-grenade", 
+    modelFile: 'modules/' + moduleName + '/models/grenade.glb'    
+  });   
+  
+  // ---------------------------------------------------------
+  // Grenade
+  dice3d.addSystem({id:"benny-grenade2", name:"Grenade 2"}, false);
+  
+  dice3d.addDicePreset({
+    type:"db",
+    system:"benny-grenade2", 
+    modelFile: 'modules/' + moduleName + '/models/grenade2.glb'    
+  });   
+  
 });
