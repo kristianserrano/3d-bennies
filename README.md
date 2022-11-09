@@ -19,7 +19,12 @@ You can install this module with this link: https://raw.githubusercontent.com/br
 
 # How To
 - Activated the module. 
-- Go to Compendium and open **Alien Dice - Docs**. There is a README journal with instructions.
+- Go to Dice so Nice settings, click the bene (db) and pick one option.
+
+<p align="center">
+  <img width="1000" src="docs/docs-dsn-settings.webp">
+</p>
+
 
 # Acknowledges
 - @JDW#6422 
