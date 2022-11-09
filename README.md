@@ -3,11 +3,7 @@ This module add new bennies models for **SWADE**.
 
 ## Bennies
 <p align="center">
-  <img width="1000" src="docs/docs_demo1.webp">
-</p>
-
-<p align="center">
-  <img width="1000" src="docs/docs_demo2.webp">
+  <img width="1000" src="docs-demo.mp4">
 </p>
 
 ## Features
@@ -22,7 +18,7 @@ You can install this module with this link: https://raw.githubusercontent.com/br
 - Go to Dice so Nice settings, click the bene (db) and pick one option.
 
 <p align="center">
-  <img width="1000" src="docs/docs-dsn-settings.webp">
+  <img width="500" src="docs/docs-dsn-settings.webp">
 </p>
 
 
