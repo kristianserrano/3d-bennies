@@ -15,3 +15,12 @@ https://sketchfab.com/3d-models/mk2-grenade-9e0d986eeea849c78bcfae3474d85fa0
 
 # Stielhandgranate WW2 german grenade
 https://sketchfab.com/3d-models/stielhandgranate-ww2-german-grenade-2408cf6f9ce7495e9ec7aea83774e8c2
+
+# Pirate Skull
+https://sketchfab.com/3d-models/pirate-skull-ed0e7a1aa2f048d8b14bba98f64a0a58
+
+# Bullet Case
+https://sketchfab.com/3d-models/bullet-case-69260fb06f2b4ed59299f1912e0a7a34
+
+# Skull
+https://sketchfab.com/3d-models/skull-9118b734cc904d2db5b967a2c1b409f7

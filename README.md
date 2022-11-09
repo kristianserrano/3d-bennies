@@ -24,9 +24,6 @@ You can install this module with this link: https://raw.githubusercontent.com/br
 # Acknowledges
 - @JDW#6422 
 
-# License
-[LICENSE](https://github.com/brunocalado/swade-more-bennies/blob/main/LICENSE)
-
 # Changes
 You can see changes at [CHANGELOG](CHANGELOG.md).
 

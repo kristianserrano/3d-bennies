@@ -10,6 +10,16 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
     system:"benny-bullet", 
     modelFile: 'modules/' + moduleName + '/models/bullet.glb'    
   });
+
+  // ---------------------------------------------------------
+  // Bullet
+  dice3d.addSystem({id:"benny-bullet-case", name:"Bullet Case"}, false);
+  
+  dice3d.addDicePreset({
+    type:"db",
+    system:"benny-bullet-case", 
+    modelFile: 'modules/' + moduleName + '/models/bullet-case.glb'    
+  });
   
   // ---------------------------------------------------------
   // Animated Bullet
@@ -120,5 +130,15 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
     system:"benny-grenade2", 
     modelFile: 'modules/' + moduleName + '/models/grenade2.glb'    
   });   
+
+  // ---------------------------------------------------------
+  // Grenade
+  dice3d.addSystem({id:"benny-skull", name:"Skull"}, false);
+  
+  dice3d.addDicePreset({
+    type:"db",
+    system:"benny-skull", 
+    modelFile: 'modules/' + moduleName + '/models/skull.glb'    
+  }); 
   
 });
