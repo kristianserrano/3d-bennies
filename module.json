@@ -1,0 +1,34 @@
+{
+  "id": "swade-more-bennies",
+  "title": "More Bennies - SWADE",
+  "description": "Extra Benes for SWADE.",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "authors": [
+    {
+      "name": "Mestre Digital",
+      "url": "https://www.youtube.com/c/MestreDigital",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "url": "https://github.com/brunocalado/swade-more-bennies",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/swade-more-bennies/main/module.json",
+  "download": "https://codeload.github.com/brunocalado/swade-more-bennies/zip/main",
+  "relationships": {
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": []
+}
