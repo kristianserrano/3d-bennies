@@ -36,3 +36,15 @@ https://sketchfab.com/3d-models/rusted-copper-gear-75d1f09e810d44dab830c563b7797
 
 # Datapod
 https://sketchfab.com/3d-models/cyberpunk-datapods-f037f5bb74ca4147aec01138d87ee00b
+
+# POW
+https://sketchfab.com/3d-models/pow-3d-word-6be87c6fc8de4072bc614ed803ddc120
+
+# Mushroom
+https://sketchfab.com/3d-models/power-up-mushroom-1bd1720613e44292a5a70119d4c1a254
+
+# Horse Shoe
+https://sketchfab.com/3d-models/horseshoe-a24a20c0b5d84435b8899da3b0af31f9
+
+# Coin
+https://sketchfab.com/3d-models/stylized-pirate-coin-9135d081eaa74842a121fc3c81291aa3

@@ -20,7 +20,6 @@ You can install this module with this link: https://raw.githubusercontent.com/br
   <img width="500" src="docs/docs-dsn-settings.webp">
 </p>
 
-
 # Acknowledges
 - @JDW#6422 
 
@@ -28,7 +27,7 @@ You can install this module with this link: https://raw.githubusercontent.com/br
 You can see changes at [CHANGELOG](CHANGELOG.md).
 
 # License
-[LICENSE](https://github.com/brunocalado/swade-more-bennies/blob/main/LICENSE.md)
+[LICENSE](LICENSE.md)
 
 # Assets License
-[LICENSE](https://github.com/brunocalado/swade-more-bennies/blob/main/LICENSE-ASSETS.md)
+[LICENSE](LICENSE-ASSETS.md)
