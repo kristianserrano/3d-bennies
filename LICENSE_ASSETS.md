@@ -24,3 +24,15 @@ https://sketchfab.com/3d-models/bullet-case-69260fb06f2b4ed59299f1912e0a7a34
 
 # Skull
 https://sketchfab.com/3d-models/skull-9118b734cc904d2db5b967a2c1b409f7
+
+# goblin
+https://sketchfab.com/3d-models/goblin-head-9fd4fabe1222448089d218e3f6eaec65
+
+# Sci-Fi Card
+https://sketchfab.com/3d-models/sci-fi-chip-58bd461d5d094c0784406a8f4836ac0b
+
+# Gear
+https://sketchfab.com/3d-models/rusted-copper-gear-75d1f09e810d44dab830c563b77973a2
+
+# Datapod
+https://sketchfab.com/3d-models/cyberpunk-datapods-f037f5bb74ca4147aec01138d87ee00b

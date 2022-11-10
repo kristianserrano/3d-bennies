@@ -1,8 +1,8 @@
 {
   "id": "swade-more-bennies",
   "title": "More Bennies - SWADE",
-  "description": "Extra Benes for SWADE.",
-  "version": "0.0.7",
+  "description": "Extra 3D Benes for SWADE.",
+  "version": "0.0.8",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
