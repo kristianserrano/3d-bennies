@@ -1,3 +1,7 @@
+0.1.1
+- One Ring
+- Dynamite
+
 0.1.0
 - helmet world war
 

@@ -51,3 +51,9 @@ https://sketchfab.com/3d-models/stylized-pirate-coin-9135d081eaa74842a121fc3c812
 
 # Helmet
 https://sketchfab.com/3d-models/m1-helmet-6d7929b10c994db0b6b39e35b379bfbd
+
+# Dynamite
+https://sketchfab.com/3d-models/dynamite-bundle-6d333be39e454b458d48ad86f8a78df4
+
+# One Ring
+https://sketchfab.com/3d-models/one-ring-lord-of-the-rings-69fb249f337549f397f0fc42229f4ad3

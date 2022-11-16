@@ -10,6 +10,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
   Coin
   Crystal Heart
   Crystal Heart - Animated  
+  Dynamite
   Gear
   Goblin
   Grenade  
@@ -25,7 +26,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
   Shard - Pink 
   Shard - Yellow
   Skull  
-  Skull - Pirate
+  Ring - That One
   UFO  
   */
   const models = [
@@ -64,6 +65,11 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       name: `${separator} Crystal Heart - Animated`,
       fileName: 'crystal_heart_animated.glb'      
     },
+    {
+      id: "benny-dynamite",
+      name: `${separator} Dynamite`,
+      fileName: 'dynamite.glb'      
+    },    
     {
       id: "benny-gear",
       name: `${separator} Gear`,
@@ -138,17 +144,17 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       id: "benny-shard-green",
       name: `${separator} Shard - Green`,
       fileName: 'shard_green.glb'      
-    },   
+    },           
     {
       id: "benny-skull",
       name: `${separator} Skull`,
       fileName: 'skull.glb'      
-    },  
-/*    {
-      id: "benny-skull_pirate",
-      name: `${separator} Skull - Pirate`,
-      fileName: 'skull_pirate.glb'      
-    },     */
+    },   
+    {
+      id: "one-ring",
+      name: `${separator} Ring - That One`,
+      fileName: 'one-ring.glb'      
+    },    
     {
       id: "benny-ufo",
       name: `${separator} UFO - Animated`,
