@@ -14,6 +14,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
   Goblin
   Grenade  
   Grenade 2
+  Helmet - World War
   Horseshoe
   Mushroom
   POW
@@ -84,6 +85,11 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       fileName: 'grenade2.glb'      
     },
     {
+      id: "benny-helmet-world-war",
+      name: `${separator} Helmet - World War`,
+      fileName: 'helmet.glb'      
+    },    
+    {
       id: "benny-horseshoe",
       name: `${separator} Horseshoe`,
       fileName: 'horseshoe.glb'      
@@ -137,8 +143,8 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       id: "benny-skull",
       name: `${separator} Skull`,
       fileName: 'skull.glb'      
-    },  /*
-    {
+    },  
+/*    {
       id: "benny-skull_pirate",
       name: `${separator} Skull - Pirate`,
       fileName: 'skull_pirate.glb'      

@@ -48,3 +48,6 @@ https://sketchfab.com/3d-models/horseshoe-a24a20c0b5d84435b8899da3b0af31f9
 
 # Coin
 https://sketchfab.com/3d-models/stylized-pirate-coin-9135d081eaa74842a121fc3c81291aa3
+
+# Helmet
+https://sketchfab.com/3d-models/m1-helmet-6d7929b10c994db0b6b39e35b379bfbd
