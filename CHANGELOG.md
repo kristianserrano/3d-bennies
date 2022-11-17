@@ -1,3 +1,6 @@
+0.1.2
+- One Ring fix
+
 0.1.1
 - One Ring
 - Dynamite
