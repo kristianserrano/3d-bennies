@@ -7,6 +7,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
   Bullet
   Bullet - Animated   
   Bullet Case
+  Cheese
   Coin
   Crystal Heart
   Crystal Heart - Animated  
@@ -50,6 +51,11 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       name: `${separator} Bullet Case`,
       fileName: 'bullet_case.glb'      
     },
+    {
+      id: "benny-cheese",
+      name: `${separator} Cheese`,
+      fileName: 'cheese.glb'      
+    },    
     {
       id: "benny-coin",
       name: `${separator} Coin`,
