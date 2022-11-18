@@ -7,6 +7,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
   Bullet
   Bullet - Animated   
   Bullet Case
+  Capybara
   Cheese
   Coin
   Crystal Heart
@@ -51,6 +52,11 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       name: `${separator} Bullet Case`,
       fileName: 'bullet_case.glb'      
     },
+    {
+      id: "benny-capybara",
+      name: `${separator} Capybara`,
+      fileName: 'capybara.glb'      
+    },        
     {
       id: "benny-cheese",
       name: `${separator} Cheese`,

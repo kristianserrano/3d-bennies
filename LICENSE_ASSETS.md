@@ -60,3 +60,6 @@ https://sketchfab.com/3d-models/one-ring-lord-of-the-rings-69fb249f337549f397f0f
 
 # Cheese
 https://gyazo.com/167bfd78777f50d39bc0e4c7bf92c9cc
+
+# Capybara
+https://sketchfab.com/3d-models/capybara-by-ao-inomata-3e8ec79c8666456d9aeb747d722f6c48

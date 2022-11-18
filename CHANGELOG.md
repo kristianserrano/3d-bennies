@@ -1,3 +1,6 @@
+0.1.4
+- Capybara
+
 0.1.3
 - Cheese
 
