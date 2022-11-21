@@ -63,3 +63,9 @@ https://gyazo.com/167bfd78777f50d39bc0e4c7bf92c9cc
 
 # Capybara
 https://sketchfab.com/3d-models/capybara-by-ao-inomata-3e8ec79c8666456d9aeb747d722f6c48
+
+# Crystal Golem Heart
+https://sketchfab.com/3d-models/crystal-golem-heart-53d0e4d69acc413e99d27680cddd11ac
+
+# Boxing Glove
+https://sketchfab.com/3d-models/boxing-glove-84424f446e7f4c3b8bf1c3204b581f28

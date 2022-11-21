@@ -4,6 +4,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
   const separator = `¤`;  
   
   /* Bennies List
+  Boxing Glove
   Bullet
   Bullet - Animated   
   Bullet Case
@@ -12,6 +13,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
   Coin
   Crystal Heart
   Crystal Heart - Animated  
+  Crystal Heart 2 - Animated  
   Dynamite
   Gear
   Goblin
@@ -32,6 +34,11 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
   UFO  
   */
   const models = [
+    {
+      id: "benny-boxing_glove",
+      name: `${separator}  Boxing Glove`,
+      fileName: 'boxing_glove.glb'      
+    },    
     {
       id: "benny-bomb",
       name: `${separator} Bomb - Animated`,
@@ -77,6 +84,11 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       name: `${separator} Crystal Heart - Animated`,
       fileName: 'crystal_heart_animated.glb'      
     },
+    {
+      id: "benny-crystal_heart2-animated",
+      name: `${separator} Crystal Heart 2 - Animated`,
+      fileName: 'crystal_heart_2.glb'      
+    },    
     {
       id: "benny-dynamite",
       name: `${separator} Dynamite`,
