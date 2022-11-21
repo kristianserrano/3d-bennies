@@ -214,8 +214,8 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       });
 
       for (const user of game.users) {
-        await user.unsetFlag("dice-so-nice", "appearance");
-        await user.setFlag('dice-so-nice', 'appearance', { 'db.system': value });
+        await user.unsetFlag("dice-so-nice", "appearance.db");
+        await user.setFlag('dice-so-nice', 'appearance.db', { 'system': value });
       }
     }
   });
