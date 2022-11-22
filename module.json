@@ -39,7 +39,7 @@
       }
     ]
   },
-  "system": [
+  "systems": [
     "swade"
   ],
   "esmodules": [
