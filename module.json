@@ -17,9 +17,9 @@
   "esmodules": [
     "scripts/3d-bennies.js"
   ],
-  "url": "https://github.com/kristianserrano/3d-bennies",
-  "manifest": "https://raw.githubusercontent.com/kristianserrano/3d-bennies/main/module.json",
-  "download": "https://codeload.github.com/kristianserrano/3d-bennies/zip/main",
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
   "relationships": {
     "requires": [
       {
