@@ -22,24 +22,18 @@
       {
         "id": "swade",
         "type": "system",
-        "manifest": "https://gitlab.com/api/v4/projects/16269883/packages/generic/swade/latest/system.json",
-        "compatibility": {
-          "minimum": "2",
-          "verified": "2",
-          "maximum": "2"
-        }
+        "manifest": "https://gitlab.com/api/v4/projects/16269883/packages/generic/swade/latest/system.json"
       }
     ],
     "requires": [
       {
         "id": "dice-so-nice",
         "type": "module",
-        "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json",
-        "compatibility": {}
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
       }
     ]
   },
-  "systems": [
+  "system": [
     "swade"
   ],
   "esmodules": [
