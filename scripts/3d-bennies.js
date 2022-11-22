@@ -77,7 +77,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       dice3d.addDicePreset({
         type: "db",
         system: newModel.id,
-        modelFile: `modules/${moduleName}/models/${newModel.id}.glb`
+        modelFile: `modules/${moduleName}/assets/models/${newModel.id}.glb`
       });
 
       for (const user of game.users) {
@@ -91,11 +91,11 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
   const modelId = game.settings.get(moduleName, 'selectedBenny');
   if (modelId) {
     const model = models.find((m) => m.id === modelId);
-    dice3d.addSystem({ id: model.id, name: model.name }, false);
+    dice3d.addSystem(model, false);
     dice3d.addDicePreset({
       type: "db",
       system: model.id,
-      modelFile: `modules/${moduleName}/models/${model.id}.glb`
+      modelFile: `modules/${moduleName}/assets/models/${model.id}.glb`
     });
   }
 });
