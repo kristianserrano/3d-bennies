@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4
+
+- Adds CHANGELOG.md to package.
+
 ## 1.0.3
 
 - Removes animation from gear model.
