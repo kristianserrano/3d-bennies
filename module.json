@@ -3,10 +3,6 @@
   "title": "3D Bennies",
   "description": "Miscellaneous 3D Bennies for Savage Worlds Adventure Edition.",
   "version": "1.0.0",
-  "compatibility": {
-    "minimum": "10",
-    "verified": "10"
-  },
   "authors": [
     {
       "name": "Kristian Serrano",
@@ -17,14 +13,12 @@
       "reddit": "u/kristianserrano"
     }
   ],
-  "esmodules": [
-    "scripts/3d-bennies.js"
-  ],
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
   "relationships": {
-    "requires": [
+    "systems": [
       {
         "id": "swade",
         "type": "system",
@@ -34,7 +28,9 @@
           "verified": "2",
           "maximum": "2"
         }
-      },
+      }
+    ],
+    "requires": [
       {
         "id": "dice-so-nice",
         "type": "module",
@@ -43,5 +39,14 @@
       }
     ]
   },
-  "packs": []
+  "system": [
+    "swade"
+  ],
+  "esmodules": [
+    "scripts/3d-bennies.js"
+  ],
+  "packs": [],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced"
 }

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5
+
+- Updates manifest to correctly define dependencies.
+
 ## 1.0.4
 
 - Adds CHANGELOG.md to package.
