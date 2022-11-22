@@ -1,25 +1,25 @@
 {
-  "id": "swade-more-bennies",
-  "title": "More Bennies - SWADE",
-  "description": "Extra 3D Benes for SWADE.",
-  "version": "0.1.5",
+  "id": "3d-bennies",
+  "title": "3D Bennies",
+  "description": "Miscellaneous 3D Bennies for Savage Worlds Adventure Edition.",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
   },
   "authors": [
     {
-      "name": "Mestre Digital",
-      "url": "https://www.youtube.com/c/MestreDigital",
+      "name": "Kristian Serrano",
+      "url": "https://immaterialplane.com",
       "flags": {}
     }
   ],
   "esmodules": [
-    "scripts/main.js"
+    "scripts/3d-bennies.js"
   ],
-  "url": "https://github.com/brunocalado/swade-more-bennies",
-  "manifest": "https://raw.githubusercontent.com/brunocalado/swade-more-bennies/main/module.json",
-  "download": "https://codeload.github.com/brunocalado/swade-more-bennies/zip/main",
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
   "relationships": {
     "requires": [
       {
