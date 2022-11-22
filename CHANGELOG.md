@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.7
+
+- Fixes dependencies yet again
+
 ## 1.0.6
 
 - Fixes system to be systems in manifest file.
