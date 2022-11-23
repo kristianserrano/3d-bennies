@@ -26,10 +26,7 @@ After activating the module, go to Configuration Settings and select the model y
 
 The module includes a [CHANGELOG](CHANGELOG.md) which will also display with [Module Management+](https://foundryvtt.com/packages/module-credits).
 
-## License
+## Licenses
 
-[LICENSE](LICENSE.md)
-
-## Model Licenses
-
-[LICENSE](LICENSE-ASSETS.md)
+- [Module License](LICENSE.md)
+- [Model Licenses](MODEL-LICENSES.md)
