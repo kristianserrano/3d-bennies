@@ -1,33 +1,35 @@
-# SWADE - More Bennies
-This module add new bennies models for **SWADE**.
+# 3d Bennies
 
-## Bennies
-**CLICK THE IMAGE TO WATCH THE VIDEO**
-[![Demonstration](docs/docs-thumbnail.webp)](https://youtu.be/k2E7kDZLmFk)
+This module is a fork of More [Bennies - SWADE](https://github.com/brunocalado/swade-more-bennies) developed by brunocalado#1650. It allows you to select 3d models of objects as your Bennies.
 
-## Features
-- Pick new 3D models for you bennies.
-- Each player can pick their favorite.
+3D Bennies has several custom modifications of the original module.
 
-# Instalation
-You can install this module with this link: https://raw.githubusercontent.com/brunocalado/swade-more-bennies/main/module.json
+- Strictly places control of selecting the Benny in the GM's hands.
+- Includes only a subset of models available.
+- Removes animations from remaining models.
 
-# How To
-- Activated the module. 
-- Go to Dice so Nice settings, click the bene (db) and pick one option.
+## Installation
 
-<p align="center">
-  <img width="500" src="docs/docs-dsn-settings.webp">
-</p>
+You can install this module with this link:
+`https://github.com/kristianserrano/3d-bennies/releases/latest/download/module.json`
 
-# Acknowledges
-- @JDW#6422 
+## How to Choose a Benny
 
-# Changes
-You can see changes at [CHANGELOG](CHANGELOG.md).
+After activating the module, go to Configuration Settings and select the model you'd like to use under the 3D Bennies setting. Save your changes and follow the prompt to reload the application. This will set the default model for the `db` "die" for all users.
 
-# License
+## Acknowledgements
+
+- @JDW#6422
+- brunocalado#1650
+
+## Changelog
+
+The module includes a [CHANGELOG](CHANGELOG.md) which will also display with [Module Management+](https://foundryvtt.com/packages/module-credits).
+
+## License
+
 [LICENSE](LICENSE.md)
 
-# Assets License
+## Model Licenses
+
 [LICENSE](LICENSE-ASSETS.md)
