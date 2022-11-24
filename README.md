@@ -1,4 +1,4 @@
-# 3d Bennies
+# 3D Bennies
 
 This module is a fork of [More Bennies - SWADE](https://github.com/brunocalado/swade-more-bennies) developed by brunocalado#1650. It allows you to select 3d models of objects as your Bennies.
 
