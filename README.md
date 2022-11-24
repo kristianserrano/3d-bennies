@@ -2,7 +2,7 @@
 
 This module is a fork of [More Bennies - SWADE](https://github.com/brunocalado/swade-more-bennies) developed by brunocalado#1650. It allows you to select 3d models of objects as your Bennies.
 
-3D Bennies has several custom modifications of the original module.
+3D Bennies makes several changes to the original module.
 
 - Strictly places control of selecting the Benny in the GM's hands.
 - Includes only a subset of models available.
