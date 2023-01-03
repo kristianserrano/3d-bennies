@@ -29,4 +29,4 @@ The module includes a [CHANGELOG](CHANGELOG.md) which will also display with [Mo
 ## Licenses
 
 - [Module License](LICENSE.md)
-- [Model Licenses](MODEL-LICENSES.md)
+- [Model Licenses](MODEL_LICENSES.md)
